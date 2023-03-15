@@ -8,3 +8,5 @@ The landing page looks like:
  and the other pages  are as follows
 
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/87226371/225353041-6ce1d08c-69d8-4efd-882f-33c171b4c60d.png">
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87226371/225354217-607ef3c5-6fc2-4762-b2eb-85c88a44bb03.png">
