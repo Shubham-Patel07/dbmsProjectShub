@@ -13,9 +13,9 @@ The landing page looks like:
 
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/87226371/225354524-ab07c7bf-1b99-48f2-8a0e-bebcf638334e.png">
 
-This project familiarized mem with many project enhancing tools like dataGrip by jet brains and netbeans along with java swing tools 
+This project familiarized with many project enhancing tools like dataGrip by jet brains and netbeans along with java swing tools 
 
-<img width="95" alt="image" src="https://user-images.githubusercontent.com/87226371/225356450-52152e6c-e52c-4f9f-887a-a52d3da616d0.png"> <img width="143" alt="image" src="https://user-images.githubusercontent.com/87226371/225356598-f84b6fb0-9475-4372-a049-a8c7852ba64a.png">
+<img width="95" alt="image" src="https://user-images.githubusercontent.com/87226371/225356450-52152e6c-e52c-4f9f-887a-a52d3da616d0.png">         <img width="143" alt="image" src="https://user-images.githubusercontent.com/87226371/225356598-f84b6fb0-9475-4372-a049-a8c7852ba64a.png">
 
 
 
