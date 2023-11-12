@@ -1,4 +1,4 @@
-# dbmsProjectShub
+# Fleet Management System with MySQL and Java Swing
 
 This is the fleet management system, It is a CRUD app based on java using the Mysql database, which manages data for a Car rental business 
 
